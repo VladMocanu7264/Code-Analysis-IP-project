@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1711269018 source:c:\university stuff\i-i introducere in programare\proiect ip\proiect ip\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<string>
+	<graphics.h>
+
+1266087014 c:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266087014 c:\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
